@@ -25,7 +25,7 @@ This project focuses on analyzing supermarket sales data using SQL and Python to
 
 # Visualization Preview
 
-(Add visualization screenshot here)
+![Revenue](https://github.com/VKSharma117/Supermarket-sales-data-analysis/blob/main/visualizations/Screenshot%202026-05-12%20190907.png?raw=true)
 
 # Files Included
 
