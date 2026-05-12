@@ -28,7 +28,7 @@ This project focuses on analyzing supermarket sales data using SQL and Python to
 ![Revenue by bar chart](https://github.com/VKSharma117/Supermarket-sales-data-analysis/blob/main/visualizations/Screenshot%202026-05-12%20190907.png?raw=true)
 ![Revenue by pie chart](https://github.com/VKSharma117/Supermarket-sales-data-analysis/blob/main/visualizations/Screenshot%202026-05-12%20190926.png?raw=true)
 ![Profit distribution](https://github.com/VKSharma117/Supermarket-sales-data-analysis/blob/main/visualizations/Screenshot%202026-05-12%20190947.png?raw=true)
-![Monthly wise sales trend]()
+![Monthly wise sales trend](https://github.com/VKSharma117/Supermarket-sales-data-analysis/blob/main/visualizations/Screenshot%202026-05-12%20191006.png?raw=true)
 
 # Files Included
 
